@@ -1,0 +1,14 @@
+.title{
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-evenly;
+
+}
+.main-icon{
+    height: 65px;
+    width: auto;
+}
+.toolbar{
+    height: 100px!important;
+}
